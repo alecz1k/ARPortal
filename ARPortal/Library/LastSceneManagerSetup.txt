@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/HelloAR/Scenes/01.unity
+- path: Assets/HelloAR/Scenes/CustomTest.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

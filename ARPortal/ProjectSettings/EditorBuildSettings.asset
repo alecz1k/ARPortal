@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/HelloAR/Scenes/01.unity
-    guid: babcfe8ec451a7e4499fccc186c4600c
+    path: Assets/HelloAR/Scenes/CustomTest.unity
+    guid: 1afc0105d34c9664b87d90694c2044cf
   m_configObjects: {}
